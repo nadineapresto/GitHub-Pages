@@ -9,7 +9,7 @@ A third-level heading can be implemented using ###
 *Italic* (using * *) or _Italic_ (using _ _)
 ~~Strikethrough~~ (using ~~ ~~)
 ## Quoting Text Practice
-> This is a quote which can be implemented using '> '
+> This is a quote.
 ## Quoting Code Practice
 `<file>` (using ` `) to quote code within a sentence
 ```
@@ -18,15 +18,15 @@ git add
 git commit
 git push
 ```
-Code block quote made by using ``` ```
+Code block quote made by using double ```
 ## Link Practice
 ### External Links
 This assignment was completed by referencing [GitHub Pages](https://pages.github.com/)
 Link things using [ ] to label the text and ( ) to link the url
 ### Section Links
-Link to top of page: [Back to the Top](#learning-markdown)
+Link to a section: [Back to the Styling Text Section](#styling-text-practice)
 ### Relative Links
-To link an image, we add a ! infront
+To link an image, we add a ! in front
 ![Happy Frog](https://images.app.goo.gl/LuydThyN9yCU6zgZ7)
 ## Lists Practice
 My siblings names are:
