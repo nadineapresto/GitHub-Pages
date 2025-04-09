@@ -12,8 +12,6 @@ A third-level heading can be implemented using ###
 *Italic* (using * *) or _Italic_ (using _ _)
 
 ~~Strikethrough~~ (using ~~ ~~)
-## Quoting Text Practice
-> This is a quote.
 
 ## Quoting Code Practice
 `<file>` (using ` `) to quote code within a sentence
@@ -43,3 +41,5 @@ My siblings names are:
 - [x] Fall Quarter 2024
 - [x] Winter Quarter 2025
 - [ ] Spring Quarter 2025
+## Quoting Text Practice
+> This is a quote.
